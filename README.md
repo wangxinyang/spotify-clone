@@ -1,5 +1,11 @@
 This is a Full Stack Spotify Clone with Next14 project complete with [`AntonioErdeljac`](https://github.com/AntonioErdeljac/next13-spotify/tree/master).
 
+## Vercel
+
+```
+https://spotify-clone-blush-ten.vercel.app/
+```
+
 ## Getting Started
 
 First, run the development server:
@@ -9,7 +15,9 @@ yarn
 
 yarn dev
 ```
+
 Stack
+
 - Next.js14
 - React
 - Tailwind CSS
@@ -30,3 +38,4 @@ Captures
 ![7](/captures/Snipaste8.jpg)
 ![8](/captures/Snipaste9.jpg)
 ![9](/captures/Snipaste10.jpg)
+
